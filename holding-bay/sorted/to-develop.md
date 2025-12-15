@@ -70,3 +70,24 @@ This concept probably didn't require such a lengthy explanation, but it's still 
 
 ![Context Waterfall Architecture Notes](https://img.shields.io/badge/repo-Context--Waterfall--Architecture--Notes-blue?logo=github)
 https://github.com/danielrosehill/Context-Waterfall-Architecture-Notes
+
+## End Of Day Worklog
+
+From a daily workflow standpoint, this is one of the ideas that I really wanted to develop and still want to. It could be implemented in a variety of different ways, ranging from an agent workflow to an identity pipeline, and I will definitely implement this as a wellness best practice in the near future.
+
+![End Of Day Worklog](https://img.shields.io/badge/repo-End--Of--Day--Worklog-blue?logo=github)
+https://github.com/danielrosehill/End-Of-Day-Worklog
+
+## Gemini Transcription MCP
+
+This is an audio multimodal transcription proof of concept that I expanded out into the Cloud ASR one with multiple backends. I actually might be errors in a single provider model, although I found that OpenRouter actually provides faster inference for Gemini models than Google ironically. If anything, an OpenRouter only implementation would make more sense!
+
+![Gemini Transcription MCP](https://img.shields.io/badge/repo-Gemini--Transcription--MCP-blue?logo=github)
+https://github.com/danielrosehill/Gemini-Transcription-MCP
+
+## Home Inventory AI Assistants
+
+These system prompts could be very useful for implementing in the revised inbox implementation I've created, which actually uses AI directly.
+
+![Home Inventory AI Assistants](https://img.shields.io/badge/repo-Home--Inventory--AI--Assistants-blue?logo=github)
+https://github.com/danielrosehill/Home-Inventory-AI-Assistants
