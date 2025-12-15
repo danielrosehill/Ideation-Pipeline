@@ -13,3 +13,9 @@ Long-term visions for how particular problems can be solved. These tend to be bi
 A very important project that requires thought and time, but is more of a long-term, ongoing, passion-driven initiative.
 
 [![Jerusalem Tech Ecosystem](https://img.shields.io/badge/repo-Jerusalem--Tech--Ecosystem-blue?logo=github)](https://github.com/danielrosehill/Jerusalem-Tech-Ecosystem)
+
+## Local Secrets MCP
+
+Added to ideas pending further exploration.
+
+[![Local Secrets MCP](https://img.shields.io/badge/repo-Local--Secrets--MCP-blue?logo=github)](https://github.com/danielrosehill/Local-Secrets-MCP)

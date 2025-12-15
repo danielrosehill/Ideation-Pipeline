@@ -36,7 +36,13 @@ Ideas live in:
 
 Categories help group related ideas together (e.g., `voice-to-text/`, `automation/`, `media-processing/`).
 
-## Holding Bay Categories
+## Holding Bay
+
+The **holding bay** is a separate workflow for managing existing repositories that have moved beyond the ideation stage. These are projects that have been created and are now in various states of development, maintenance, or exploration.
+
+📋 **[View Complete Holding Bay Index](holding-bay/INDEX.md)** - Comprehensive list of all repositories organized by category
+
+### Holding Bay Categories
 
 The `holding-bay/sorted/` directory organizes repository projects by their current status and development priority:
 

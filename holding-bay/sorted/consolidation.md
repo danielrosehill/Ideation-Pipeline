@@ -47,3 +47,9 @@ Using Claude to manage the Linux desktop has been a resounding success so far. M
 **Llama OS Doctor Idea:**
 
 [![Llama OS Doctor Idea](https://img.shields.io/badge/repo-Llama--OS--Doctor--Idea-blue?logo=github)](https://github.com/danielrosehill/Llama-OS-Doctor-Idea)
+
+**Local Linux Repair Bot:**
+
+Consolidated into local desktop maintenance and recovery utilities.
+
+[![Local Linux Repair Bot](https://img.shields.io/badge/repo-Local--Linux--Repair--Bot-blue?logo=github)](https://github.com/danielrosehill/Local-Linux-Repair-Bot)
