@@ -123,3 +123,15 @@ Explains the foundational concept of gathering context through a proactive inter
 Strategized UI for a grid alert display in Home Assistant panels, with different quadrants for local and national alerts. Important UI experiment to integrate into different dashboards in the future.
 
 [![Red Alert Warning Panel](https://img.shields.io/badge/repo-Red--Alert--Warning--Panel-blue?logo=github)](https://github.com/danielrosehill/Red-Alert-Warning-Panel)
+
+## Voice Blog Creator
+
+A useful voice pipeline that can be refined and integrated into other creative utilities. The unique feature is that it perfectly follows a multi-agent pipeline with outline generation, human-in-the-loop aspects, and then text generation. It has a lot of potential and could be used for other formats.
+
+[![Voice Blog Creator](https://img.shields.io/badge/repo-Voice--Blog--Creator-blue?logo=github)](https://github.com/danielrosehill/Voice-Blog-Creator)
+
+## Voice Prompt Cleanup Script
+
+One of a few audio pipeline utilities and scripts that could be patched together. Includes functionality for long-form downsampling and silence removal. These would be good to bucket together in a list of voice tech components.
+
+[![Voice Prompt Cleanup Script](https://img.shields.io/badge/repo-Voice--Prompt--Cleanup--Script-blue?logo=github)](https://github.com/danielrosehill/Voice-Prompt-Cleanup-Script)
