@@ -80,3 +80,24 @@ One of the small utilities I'm very glad to have created, and would like to main
 
 ![Hebrew Date KDE Widget](https://img.shields.io/badge/repo-Hebrew--Date--KDE--Widget-blue?logo=github)
 https://github.com/danielrosehill/Hebrew-Date-KDE-Widget
+
+## Home Inventory AI Assistants
+
+These system prompts could be very useful for implementing in the revised inbox implementation I've created, which actually uses AI directly.
+
+![Home Inventory AI Assistants](https://img.shields.io/badge/repo-Home--Inventory--AI--Assistants-blue?logo=github)
+https://github.com/danielrosehill/Home-Inventory-AI-Assistants
+
+## Homebox Backup GUI
+
+We may need to rewrite this a little bit to reflect updated data schema. Nevertheless, it remains a very useful and important backup utility to maintain.
+
+![Homebox Backup GUI](https://img.shields.io/badge/repo-Homebox--Backup--GUI-blue?logo=github)
+https://github.com/danielrosehill/Homebox-Backup-GUI
+
+## Homebox Ideas
+
+I think that I've implemented most of these in my fork. If so, this can be moved to an archived repository.
+
+![Homebox Ideas](https://img.shields.io/badge/repo-Homebox--Ideas-blue?logo=github)
+https://github.com/danielrosehill/Homebox-Ideas

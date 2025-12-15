@@ -1,5 +1,9 @@
 # To Maintain
 
+Repositories that are in good order and already started. These just need periodic maintenance to keep them up to date.
+
+---
+
 ## AI Stack Oct 2025
 
 Foundation in place and want to continue exploring topic.

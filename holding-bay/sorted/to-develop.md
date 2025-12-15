@@ -1,4 +1,8 @@
-# Repository Development Notes
+# To Develop
+
+Cherry-picked repositories that show merit and are worth continuing to work on and focus development efforts.
+
+---
 
 ## Claude Code Writing Squad
 

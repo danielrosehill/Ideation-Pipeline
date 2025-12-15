@@ -1,5 +1,9 @@
 # Not Started
 
+Projects that are parked and waiting for time to work on them. Initial scope or context has typically been defined, but implementation hasn't begun yet.
+
+---
+
 ## Batch Optical Archivist
 
 Want to start for family photo backup!
