@@ -30,17 +30,21 @@ Each idea gets its own folder containing:
 - Specification documents
 
 Ideas live in:
-- `pending/` - Ideas awaiting implementation
+- `pending/` - Ideas awaiting implementation (organized by category)
 - `done/` - Completed/implemented ideas
 - `to-process/` - Raw ideas needing transcription and analysis
+
+Categories help group related ideas together (e.g., `voice-to-text/`, `automation/`, `media-processing/`).
 
 ## Ideas Index
 
 ### Pending Ideas
 
+#### Voice-to-Text
+
 | Idea | Audio | Transcript | Analysis | Status |
 |------|-------|------------|----------|--------|
-| [PipeWire Source Priority Organiser](pending/pipewire-source-priority-organiser/) | [Audio](pending/pipewire-source-priority-organiser/idea.mp3) | [Cleaned](pending/pipewire-source-priority-organiser/transcripts/02-cleaned-transcript.md) | [Analysis](pending/pipewire-source-priority-organiser/ai-analysis/ai-analysis.md) | Pending |
+| [PipeWire Source Priority Organiser](pending/voice-to-text/pipewire-source-priority-organiser/) | [Audio](pending/voice-to-text/pipewire-source-priority-organiser/idea.mp3) | [Cleaned](pending/voice-to-text/pipewire-source-priority-organiser/transcripts/02-cleaned-transcript.md) | [Analysis](pending/voice-to-text/pipewire-source-priority-organiser/ai-analysis/ai-analysis.md) | Pending |
 
 ### Completed Ideas
 
