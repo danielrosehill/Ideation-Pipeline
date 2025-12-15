@@ -1,4 +1,4 @@
-# App Ideas (Consolidated!)
+# App Ideas (Staging / Pipeline Repository)
 
 My motivation for creating this repository is to develop a better system for parking ideas for vibe coded apps (and utilities) that are pending execution/implementation.
 
