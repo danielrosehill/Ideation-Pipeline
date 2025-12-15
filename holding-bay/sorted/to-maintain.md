@@ -71,3 +71,15 @@ This is an extremely useful utility to have on hand and could be developed in di
 Expected this list will grow considerably. Interesting projects using MCPs for Jewish learning purposes in Torah should be maintained, even just periodically checking what's new and interesting and gathering the resources.
 
 [![Jewish AI Projects](https://img.shields.io/badge/repo-Jewish--AI--Projects-blue?logo=github)](https://github.com/danielrosehill/Jewish-AI-Projects)
+
+## Linux Friendly Voice Tech
+
+This is very challenging to maintain, as it's becoming a vast field but nevertheless is very important and something I've already maintained in a few iterations.
+
+[![Linux Friendly Voice Tech](https://img.shields.io/badge/repo-Linux--Friendly--Voice--Tech-blue?logo=github)](https://github.com/danielrosehill/Linux-Friendly-Voice-Tech)
+
+## Linux MCP Clients
+
+This will be a very dynamic field, I predict, and I want to keep this up to date. Currently, the tooling is dominated by CLIs that are challenging to use and set up. My hope is that as more user-friendly tools come to market, for Linux, I will keep this updated.
+
+[![Linux MCP Clients](https://img.shields.io/badge/repo-Linux--MCP--Clients-blue?logo=github)](https://github.com/danielrosehill/Linux-MCP-Clients)

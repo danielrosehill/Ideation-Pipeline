@@ -28,12 +28,6 @@ This slash command and variants have been extremely helpful for organizing local
 
 [![Claude File Organiser Super Slash](https://img.shields.io/badge/repo-Claude--File--Organiser--Super--Slash-blue?logo=github)](https://github.com/danielrosehill/Claude-File-Organiser-Super-Slash)
 
-## Claude Linux Desktop Manager
-
-Using Claude to manage the Linux desktop has been a resounding success so far. My longer-term idea with this was to develop from a plugin and CLI-centric utility into a proper GUI with commands and an interface, and I think this would be worth doing at some point.
-
-[![Claude Linux Desktop Manager](https://img.shields.io/badge/repo-Claude--Linux--Desktop--Manager-blue?logo=github)](https://github.com/danielrosehill/Claude-Linux-Desktop-Manager)
-
 ## Claude Media Monitor
 
 This idea and concept in workspace could be very effectively bundled with MCP for client engagement and reporting.
@@ -79,3 +73,9 @@ This is an audio multimodal transcription proof of concept that I expanded out i
 These system prompts could be very useful for implementing in the revised inbox implementation I've created, which actually uses AI directly.
 
 [![Home Inventory AI Assistants](https://img.shields.io/badge/repo-Home--Inventory--AI--Assistants-blue?logo=github)](https://github.com/danielrosehill/Home-Inventory-AI-Assistants)
+
+## Lashon Hara Chatbot
+
+Very important and dear to me project that I want to look into extensively.
+
+[![Lashon Hara Chatbot](https://img.shields.io/badge/repo-Lashon--Hara--Chatbot-blue?logo=github)](https://github.com/danielrosehill/Lashon-Hara-Chatbot)

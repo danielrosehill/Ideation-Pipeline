@@ -33,3 +33,17 @@ These projects pair closely together in the concept of agents for geopolitical d
 This pairs very closely with the Middle Eastern Peace Summit and AI, and AI general experiments in the concept of agents for geopolitical decision modeling.
 
 [![Israel GeoInsights](https://img.shields.io/badge/repo-Israel--GeoInsights-blue?logo=github)](https://github.com/danielrosehill/Israel-GeoInsights)
+
+## Claude Linux Desktop Manager + Llama OS Doctor
+
+This idea can be consolidated into various explorations of how an agentic AI system can be used for system administration, especially in the context of proactive maintenance and post-boot diagnostics. For that purpose, these explorations use Claude and Llama to explore the same angle.
+
+**Claude Linux Desktop Manager:**
+
+Using Claude to manage the Linux desktop has been a resounding success so far. My longer-term idea with this was to develop from a plugin and CLI-centric utility into a proper GUI with commands and an interface, and I think this would be worth doing at some point.
+
+[![Claude Linux Desktop Manager](https://img.shields.io/badge/repo-Claude--Linux--Desktop--Manager-blue?logo=github)](https://github.com/danielrosehill/Claude-Linux-Desktop-Manager)
+
+**Llama OS Doctor Idea:**
+
+[![Llama OS Doctor Idea](https://img.shields.io/badge/repo-Llama--OS--Doctor--Idea-blue?logo=github)](https://github.com/danielrosehill/Llama-OS-Doctor-Idea)
